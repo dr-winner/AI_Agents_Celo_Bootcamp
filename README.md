@@ -15,7 +15,7 @@ This bootcamp teaches developers how to build AI agents integrated with the Celo
 ## Getting Started
 - Clone the repository:
   ```
-  git clone https://github.com/your-username/ai-agents-bootcamp-celo.git
+  git clone git@github.com:Celo-Africa-DAO/AI_Agents_Celo_Bootcamp.git
   ```
 - Navigate to the session folder you're interested in and follow the instructions.
 
