@@ -1,9 +1,9 @@
 # AI Agents Bootcamp on Celo
 
-Welcome to the official repository for the AI Agents Bootcamp on Celo! This repository contains all the code snippets, resources, and guides used during the bootcamp.
+Welcome to the official repository for the AI Agents Bootcamp on Celo! This repository contains all the code snippets, resources, and guides used during the boot camp.
 
 ## Bootcamp Overview
-This bootcamp teaches developers how to build AI agents integrated with the Celo blockchain. By the end of the program, you'll have hands-on experience in:
+This boot camp teaches developers how to build AI agents integrated with the Celo blockchain. By the end of the program, you'll have hands-on experience in:
 - Building AI agents.
 - Integrating AI agents with Celo's ecosystem.
 - Deploying and scaling decentralized AI applications.
@@ -15,7 +15,7 @@ This bootcamp teaches developers how to build AI agents integrated with the Celo
 ## Getting Started
 - Clone the repository:
   ```
-  git clone git@github.com:Celo-Africa-DAO/AI_Agents_Celo_Bootcamp.git
+  git clone https://github.com/dr-winner/AI_Agents_Celo_Bootcamp.git
   ```
 - Navigate to the session folder you're interested in and follow the instructions.
 
